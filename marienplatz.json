@@ -1,0 +1,217 @@
+{
+    "station": "Marienplatz",
+    "server_time": "06:16",
+    "transports": [
+        "u",
+        "bus",
+        "tram",
+        "s"
+    ],
+    "using_config_file": null,
+    "result_sorted": [
+        {
+            "line": "S4",
+            "destination": "Geltendorf",
+            "minutes": 1
+        },
+        {
+            "line": "U",
+            "destination": "Moosach",
+            "minutes": 1
+        },
+        {
+            "line": "S8",
+            "destination": "München Flughafen Terminal",
+            "minutes": 2
+        },
+        {
+            "line": "S1",
+            "destination": "Freising",
+            "minutes": 3
+        },
+        {
+            "line": "S1",
+            "destination": "München Flughafen Terminal",
+            "minutes": 3
+        },
+        {
+            "line": "S1",
+            "destination": "München Ost",
+            "minutes": 4
+        },
+        {
+            "line": "S8",
+            "destination": "Herrsching",
+            "minutes": 5
+        },
+        {
+            "line": "S4",
+            "destination": "Grafing Bahnhof",
+            "minutes": 6
+        },
+        {
+            "line": "U",
+            "destination": "Garching-Forschungszentrum",
+            "minutes": 7
+        },
+        {
+            "line": "U3",
+            "destination": "Fürstenried West",
+            "minutes": 7
+        },
+        {
+            "line": "U6",
+            "destination": "Klinikum Großhadern",
+            "minutes": 7
+        },
+        {
+            "line": "S2",
+            "destination": "Petershausen(Obb)",
+            "minutes": 9
+        },
+        {
+            "line": "S3",
+            "destination": "Holzkirchen",
+            "minutes": 9
+        },
+        {
+            "line": "U3",
+            "destination": "Moosach",
+            "minutes": 9
+        },
+        {
+            "line": "U6",
+            "destination": "Harras",
+            "minutes": 10
+        },
+        {
+            "line": "S6",
+            "destination": "Tutzing",
+            "minutes": 11
+        },
+        {
+            "line": "S7",
+            "destination": "Wolfratshausen",
+            "minutes": 13
+        },
+        {
+            "line": "S7",
+            "destination": "Höhenkirchen-Siegertsbrunn",
+            "minutes": 14
+        },
+        {
+            "line": "S6",
+            "destination": "München Ost",
+            "minutes": 15
+        },
+        {
+            "line": "U6",
+            "destination": "Klinikum Großhadern",
+            "minutes": 16
+        }
+    ],
+    "result_display": [
+        {
+            "line": "U",
+            "destination": "Moosach",
+            "minutes": 1
+        },
+        {
+            "line": "U3",
+            "destination": "Fürstenried West",
+            "minutes": 7
+        },
+        {
+            "line": "U6",
+            "destination": "Klinikum Großhadern",
+            "minutes": 7
+        },
+        {
+            "line": "U",
+            "destination": "Garching-Forschungszentrum",
+            "minutes": 7
+        },
+        {
+            "line": "U3",
+            "destination": "Moosach",
+            "minutes": 9
+        },
+        {
+            "line": "U6",
+            "destination": "Harras",
+            "minutes": 10
+        },
+        {
+            "line": "U6",
+            "destination": "Klinikum Großhadern",
+            "minutes": 16
+        },
+        {
+            "line": "S4",
+            "destination": "Geltendorf",
+            "minutes": 1
+        },
+        {
+            "line": "S8",
+            "destination": "München Flughafen Terminal",
+            "minutes": 2
+        },
+        {
+            "line": "S1",
+            "destination": "München Flughafen Terminal",
+            "minutes": 3
+        },
+        {
+            "line": "S1",
+            "destination": "Freising",
+            "minutes": 3
+        },
+        {
+            "line": "S1",
+            "destination": "München Ost",
+            "minutes": 4
+        },
+        {
+            "line": "S8",
+            "destination": "Herrsching",
+            "minutes": 5
+        },
+        {
+            "line": "S4",
+            "destination": "Grafing Bahnhof",
+            "minutes": 6
+        },
+        {
+            "line": "S3",
+            "destination": "Holzkirchen",
+            "minutes": 9
+        },
+        {
+            "line": "S2",
+            "destination": "Petershausen(Obb)",
+            "minutes": 9
+        },
+        {
+            "line": "S6",
+            "destination": "Tutzing",
+            "minutes": 11
+        },
+        {
+            "line": "S7",
+            "destination": "Wolfratshausen",
+            "minutes": 13
+        },
+        {
+            "line": "S7",
+            "destination": "Höhenkirchen-Siegertsbrunn",
+            "minutes": 14
+        },
+        {
+            "line": "S6",
+            "destination": "München Ost",
+            "minutes": 15
+        }
+    ],
+    "station_unknown": null,
+    "station_alternates": null
+}

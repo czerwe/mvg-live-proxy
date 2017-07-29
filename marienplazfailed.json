@@ -1,0 +1,20 @@
+{
+    "station": "Marienpl",
+    "server_time": "",
+    "transports": [
+        "u",
+        "bus",
+        "tram",
+        "s"
+    ],
+    "using_config_file": null,
+    "result_sorted": null,
+    "result_display": null,
+    "station_unknown": true,
+    "station_alternates": [
+        "Marienplatz",
+        "Marienplatz (Heilig-Geist-Kirche)",
+        "Marienplatz Süd",
+        "Pasinger Marienplatz"
+    ]
+}
