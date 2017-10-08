@@ -78,7 +78,7 @@ func Querymvg(resp http.ResponseWriter, req *http.Request) {
 	}).Info("Received request")
 
 	// out, err := exec.Command("cat", "marienplazfailed.json").Output()
-	out, err := exec.Command("mvdwg_json", vars["station"]).Output()
+	out, err := exec.Command("mvg_json", vars["station"]).Output()
 	if err != nil {
 		log.Error(err)
 	}
